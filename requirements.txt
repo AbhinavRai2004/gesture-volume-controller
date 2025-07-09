@@ -8,3 +8,4 @@ matplotlib==3.8.4
 pandas==2.2.2
 contourpy==1.2.0
 ydata-profiling==4.12.2
+pycaw
